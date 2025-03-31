@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jlenchner
-- 👀 I’m currently working on problems in the theory of computation, the interface of mathematical logic and neural networks. and the measuring of artificially intelligent systems
+- 👀 I’m currently working on problems in the theory of computation, the interface of mathematical logic and information theory, and symbolic regression for discovering new laws of nature, especially in physics.
 - 👀 I’m also a game developer
 - 📫 Reach me via email at jon.lenchner@gmail.com
 
